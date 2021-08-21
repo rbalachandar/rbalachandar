@@ -29,11 +29,11 @@ I am a software engineer
 
 ---
 <div id="content">
-    <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ Logo" width="50" height="50"/>
-    <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="Pandas Logo" width="100" height="100"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-3.svg" alt="GCP Logo" align="middle" width="100" height="100"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="50" height="30"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" align="middle" width="50" height="50"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ Logo" align="middle" width="50" height="50"/>
+    <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="Pandas Logo" align="middle" width="100" height="200"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-3.svg" alt="GCP Logo" align="middle" width="100" height="200"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" align="middle" width="50" height="30"/>
 </div>
 
 
