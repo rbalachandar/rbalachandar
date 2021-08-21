@@ -14,13 +14,14 @@ Here are some ideas to get you started:
 -->
 
 ### Hello World 👋
-I am a software engineer
+A Software Engineer specializing in python. Professional experience with the technologies listed in the toolbox below.
 - 🔭 Working on multiple projects using Python
 - 🌱 Learning data engineering
-- 📫 How to reach me:bchandar.r@gmail.com
+- 📫 How to reach me: bchandar.r@gmail.com
 <br>
+
 ## Connect with me
-<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />(https://www.linkedin.com/in/r-balachandar) 
+<img align="left" alt="linked-in" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" />(https://www.linkedin.com/in/r-balachandar) 
 <br>
 <br>
 
