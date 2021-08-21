@@ -21,7 +21,7 @@ A Software Engineer specializing in python. Professional experience with the tec
 <br>
 
 ## Connect with me
-<img align="left" alt="linked-in" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" width="30" height="30" />(https://www.linkedin.com/in/r-balachandar) 
+<img align="left" alt="linked-in" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" width="30" height="30" /> https://www.linkedin.com/in/r-balachandar
 <br>
 <br>
 
