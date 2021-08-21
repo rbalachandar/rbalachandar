@@ -16,21 +16,21 @@ Here are some ideas to get you started:
 -->
 
 ### Hello World 👋
-I am a fullstack software engineer from bangladesh
-- 🔭 Working on multiple frontend and backend project using React and Nodejs
-- 🌱 Learning design patterns in depth
+I am a software engineer
+- 🔭 Working on multiple projects using Python
+- 🌱 Learning data engineering
+- 📫 How to reach me:bchandar.r@gmail.com
 <br>
 ## Connect with me
-<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />(https://www.linkedin.com/in/r-balachandar)
-<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />(https://www.linkedin.com/in/mohammad-faisal-2665b5134)
+<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>(https://www.linkedin.com/in/r-balachandar)
+<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>(https://www.linkedin.com/in/mohammad-faisal-2665b5134)
 <br>
 <br>
-## Expertise
-<img align="left" alt="Python" src="https://img.shields.io/badge/python-3.7-yellowgreen" />
-<img align="left" alt="C++" src="https://img.shields.io/badge/C%2B%2B-11-blue" />
-<img align="left" alt="gcp" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
-<img align="left" alt="linux" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
-<img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
-<img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
-<br>
-<br>
+---
+
+🧰 Toolbox
+
+---
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/>
+
+
