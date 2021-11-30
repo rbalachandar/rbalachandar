@@ -19,7 +19,7 @@ I'm a Software Engineer specializing in Python with professional experience in t
 - 🌱 I'm currently learning/working on Data science and engineering
 - 📫 How to reach me: bchandar.r@gmail.com
 <br>
-img 
+ 
 ### My Skill set 🧰 
 <div id="content">
     <img style=”margin: 10px” src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" align="top" width="50" height="50"/>
