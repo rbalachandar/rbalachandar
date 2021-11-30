@@ -28,7 +28,9 @@ I'm a Software Engineer specializing in Python with professional experience in t
     <img style=”margin: 10px” src="https://cdn.worldvectorlogo.com/logos/google-cloud-3.svg" alt="GCP Logo" align="top" height="50"/>
     <img style=”margin: 10px” src="https://plotly-marketing-website.cdn.prismic.io/plotly-marketing-website/948b6663-9429-4bd6-a4cc-cb33231d4532_logo-plotly.svg" alt="Plotly Dash" align="top" height="50"/>
     <img style="margin: 10px" src="https://airflow.apache.org/images/feature-image.png" alt="Airlflow Logo" align="top" height="50"/>
+    <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL Logo" align="top" height="50"/>
 </div>
+
 
 ### Connect with me
 <img align="left" alt="linked-in" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" width="30" height="30" /> https://www.linkedin.com/in/r-balachandar
