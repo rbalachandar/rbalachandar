@@ -20,7 +20,7 @@ I'm a Software Engineer specializing in Python with professional experience in t
 - 📫 How to reach me: bchandar.r@gmail.com
 <br>
  
-### My Skill set 🧰 
+### My Skill Set 🧰 
 <div id="content">
     <img style=”margin: 10px” src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" align="top" height="50"/>
     <img style=”margin: 10px” src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ Logo" align="top" height="50"/>
@@ -31,6 +31,11 @@ I'm a Software Engineer specializing in Python with professional experience in t
     <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL Logo" align="top" height="50"/>
 </div>
 
+### Most Used 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbalachandar&theme=tokyonight)
+
+### Stats 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rbalachandar&show_icons=true&theme=tokyonight)
 
 ### Connect with me
 <img align="left" alt="linked-in" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" width="30" height="30" /> https://www.linkedin.com/in/r-balachandar
