@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 ### Hello World 👋
-A Software Engineer specializing in python. Professional experience with the technologies listed in the toolbox below.
+I'm a Software Engineer specializing in Python with professional experience in technologies listed in the toolbox below.
 - 🔭 Working on multiple projects using Python
-- 🌱 Learning data engineering
+- 🌱 Data engineering
 - 📫 How to reach me: bchandar.r@gmail.com
 <br>
 
