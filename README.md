@@ -24,10 +24,8 @@ I'm a Software Engineer specializing in Python with professional experience in t
 <img align="left" alt="linked-in" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" width="30" height="30" /> https://www.linkedin.com/in/r-balachandar
 <br>
 <br>
-
 ---
 🧰 Toolbox
-
 ---
 <div id="content">
     <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" align="middle" width="50" height="50"/>
