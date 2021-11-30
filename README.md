@@ -27,6 +27,7 @@ I'm a Software Engineer specializing in Python with professional experience in t
     <img style=”margin: 10px” src="https://pandas.pydata.org/static/img/pandas.svg" alt="Pandas Logo" align="top" height="50"/>
     <img style=”margin: 10px” src="https://cdn.worldvectorlogo.com/logos/google-cloud-3.svg" alt="GCP Logo" align="top" height="50"/>
     <img style=”margin: 10px” src="https://plotly-marketing-website.cdn.prismic.io/plotly-marketing-website/948b6663-9429-4bd6-a4cc-cb33231d4532_logo-plotly.svg" alt="Plotly Dash" align="top" height="50"/>
+    <img style="margin: 10px" src="https://airflow.apache.org/images/feature-image.png" alt="Airlflow Logo" align="top" height="50"/>
 </div>
 
 ### Connect with me
