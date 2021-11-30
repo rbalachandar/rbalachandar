@@ -14,18 +14,13 @@ Here are some ideas to get you started:
 -->
 
 ### Hello World 👋
-I'm a Software Engineer specializing in Python with professional experience in technologies listed in the toolbox below.
+I'm a Software Engineer specializing in Python with professional experience in technologies listed in the skillset below.
 - 🔭 Working on projects using Python
 - 🌱 I'm currently learning/working on Data science and engineering
 - 📫 How to reach me: bchandar.r@gmail.com
 <br>
-
-## Connect with me
-<img align="left" alt="linked-in" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" width="30" height="30" /> https://www.linkedin.com/in/r-balachandar
-<br>
-<br>
 ---
-🧰 Toolbox
+🧰 My Skill set
 ---
 <div id="content">
     <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" align="middle" width="50" height="50"/>
@@ -34,5 +29,8 @@ I'm a Software Engineer specializing in Python with professional experience in t
     <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-3.svg" alt="GCP Logo" align="middle" width="200" height="300"/>
     <img src="https://plotly-marketing-website.cdn.prismic.io/plotly-marketing-website/948b6663-9429-4bd6-a4cc-cb33231d4532_logo-plotly.svg" alt="Plotly Dash" align="middle" widht="50" height="50"/>
 </div>
-
+## Connect with me
+<img align="left" alt="linked-in" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" width="30" height="30" /> https://www.linkedin.com/in/r-balachandar
+<br>
+<br>
 
