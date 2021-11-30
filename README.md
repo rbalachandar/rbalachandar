@@ -22,13 +22,13 @@ I'm a Software Engineer specializing in Python with professional experience in t
  
 ### My Skill set 🧰 
 <div id="content">
-    <img style=”margin: 10px” src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" align="top" width="50" height="50"/>
-    <img style=”margin: 10px” src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ Logo" align="top" width="50" height="50"/>
-    <img style=”margin: 10px” src="https://pandas.pydata.org/static/img/pandas.svg" alt="Pandas Logo" align="top" width="100" height="200"/>
-    <img style=”margin: 10px” src="https://cdn.worldvectorlogo.com/logos/google-cloud-3.svg" alt="GCP Logo" align="top" width="200" height="300"/>
-    <img style=”margin: 10px” src="https://plotly-marketing-website.cdn.prismic.io/plotly-marketing-website/948b6663-9429-4bd6-a4cc-cb33231d4532_logo-plotly.svg" alt="Plotly Dash" align="top" widht="50" height="50"/>
+    <img style=”margin: 10px” src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" align="top" height="50"/>
+    <img style=”margin: 10px” src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ Logo" align="top" height="50"/>
+    <img style=”margin: 10px” src="https://pandas.pydata.org/static/img/pandas.svg" alt="Pandas Logo" align="top" height="200"/>
+    <img style=”margin: 10px” src="https://cdn.worldvectorlogo.com/logos/google-cloud-3.svg" alt="GCP Logo" align="top" height="300"/>
+    <img style=”margin: 10px” src="https://plotly-marketing-website.cdn.prismic.io/plotly-marketing-website/948b6663-9429-4bd6-a4cc-cb33231d4532_logo-plotly.svg" alt="Plotly Dash" align="top" height="50"/>
 </div>
-## Connect with me
+### Connect with me
 <img align="left" alt="linked-in" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" width="30" height="30" /> https://www.linkedin.com/in/r-balachandar
 <br>
 <br>
