@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 
 ### Hello World 👋
 I'm a Software Engineer specializing in Python with professional experience in technologies listed in the skillset below.
-- 🔭 Working on projects using Python
-- 🌱 I'm currently learning/working on Data science and engineering
+- 🔭 Working on AI & Data projects
 - 📫 How to reach me: bchandar.r@gmail.com
 <br>
 
