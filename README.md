@@ -35,12 +35,5 @@ I'm a Software Engineer 🔭 Working on AI & Data projects
     <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/docker-3.svg" alt="PostgreSQL Logo" align="top" height="50"/>
 </div>
 
-
-### Most Used 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbalachandar&theme=tokyonight)
-
-### Stats 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rbalachandar&show_icons=true&theme=tokyonight)
-![Metrics](https://metrics.lecoq.io/bramakri?template=classic&isocalendar=1&languages=1&habits=1)
-![trophy](https://github-profile-trophy.vercel.app/?username=rbalachandar&theme=tokyonight)
-
+### Stats                                                                                                
+![GitHub stats](https://gh-readme-stats.vercel.app/api?username=rbalachandar&show_icons=true&theme=tokyonight) 
