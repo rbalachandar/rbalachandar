@@ -41,6 +41,6 @@ I'm a Software Engineer 🔭 Working on AI & Data projects
 
 ### Stats 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rbalachandar&show_icons=true&theme=tokyonight)
-
-
+![Metrics](https://metrics.lecoq.io/bramakri?template=classic&isocalendar=1&languages=1&habits=1)
+![trophy](https://github-profile-trophy.vercel.app/?username=rbalachandar&theme=tokyonight)
 
