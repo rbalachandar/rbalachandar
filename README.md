@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hello World 👋
-I'm a Software Engineer 🔭 Working on AI & Data projects
+🔭 Working on AI & Data projects
 📫 How to reach me: bchandar.r@gmail.com
 <br>
 
