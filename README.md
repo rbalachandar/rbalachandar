@@ -23,17 +23,5 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-### My Skill Set 🧰 
-<div id="content">
-    <img style=”margin: 10px” src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" align="top" height="50"/>
-    <img style=”margin: 10px” src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ Logo" align="top" height="50"/>
-    <img style=”margin: 10px” src="https://pandas.pydata.org/static/img/pandas.svg" alt="Pandas Logo" align="top" height="50"/>
-    <img style=”margin: 10px” src="https://cdn.worldvectorlogo.com/logos/google-cloud-3.svg" alt="GCP Logo" align="top" height="50"/>
-    <img style=”margin: 10px” src="https://plotly-marketing-website.cdn.prismic.io/plotly-marketing-website/948b6663-9429-4bd6-a4cc-cb33231d4532_logo-plotly.svg" alt="Plotly Dash" align="top" height="50"/>
-    <img style="margin: 10px" src="https://airflow.apache.org/images/feature-image.png" alt="Airlflow Logo" align="top" height="50"/>
-    <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL Logo" align="top" height="50"/>
-    <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/docker-3.svg" alt="PostgreSQL Logo" align="top" height="50"/>
-</div>
-
 ### Stats                                                                                                
 ![GitHub stats](https://gh-readme-stats.vercel.app/api?username=rbalachandar&show_icons=true&theme=tokyonight) 
