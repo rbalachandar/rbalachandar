@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hello World 👋
-🔭 Working on AI & Data projects
-📫 How to reach me: bchandar.r@gmail.com
+🔭 Working with AI & Data
 <br>
 
 ### Connect with me
