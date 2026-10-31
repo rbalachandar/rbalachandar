@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello World 👋
-🔭 Working with AI & Data
+### AI Engineering 👋
+🔭 Building AI systems
 <br>
 
 ### Connect with me
