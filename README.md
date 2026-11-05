@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### AI Engineering 👋
+### AI Engineering
 🔭 Building AI systems
 <br>
 
